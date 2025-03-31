@@ -1,0 +1,6 @@
+-s 11 -r 22 -m "Message 12"
+--sender 33 --recipient 44 --message "Message 34"
+55 66 "Message 56"
+00 99 "Сообщение 09"
+-f params.txt
+-f params2.txt

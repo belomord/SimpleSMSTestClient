@@ -252,3 +252,5 @@ fabric.properties
 
 # PyPI configuration file
 .pypirc
+/Task/prism-cli-win.exe
+client.log

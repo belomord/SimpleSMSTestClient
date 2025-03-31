@@ -1,0 +1,15 @@
+[system]
+# тип библиотеки на основании которой происходит обмен с сервером
+#   0 - socket (по умолчанию)
+#   1 - asyncio
+client_type = 0
+
+[user]
+login = "user"
+password = "password"
+
+[server]
+address = "http://localhost:4010/send_sms"
+max_connections = 0
+max_time = 1000
+
